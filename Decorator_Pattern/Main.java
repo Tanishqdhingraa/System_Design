@@ -51,10 +51,12 @@ public class Main {
     public static void main(String[] args) {
 
         Character mario = new Mario();
+        System.out.println(mario.getAbilities());
 
         mario = new Gun(mario);
-        mario = new Star(mario);
+        System.out.println(mario.getAbilities());
 
+        mario = new Star(mario);
         System.out.println(mario.getAbilities());
     }
 }
