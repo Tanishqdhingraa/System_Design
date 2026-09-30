@@ -1,0 +1,6 @@
+= Command Pattern encapsulates a request as an object, 
+allowing it to be passed around, stored, executed, 
+and undone independently of the object that performs the operation.
+
+=> It separates the object that requests an operation from 
+the object that actually performs it.
