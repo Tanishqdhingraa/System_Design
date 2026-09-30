@@ -1,0 +1,7 @@
+Pattern       → Problem it solves
+
+Singleton     → One instance
+Factory       → Object creation
+Strategy      → Changeable behavior
+Observer      → Notify many objects
+Decorator     → Add behavior dynamically

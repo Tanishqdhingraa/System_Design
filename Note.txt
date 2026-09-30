@@ -1,0 +1,9 @@
+Scaling can be achieved by 
+1. server and database separation 
+2. Load Balancer and multiple app server 
+3. data centers  
+4. Database replication 
+5.Database sharding 
+5. CDN 
+6. Caching 
+7. message queues.
